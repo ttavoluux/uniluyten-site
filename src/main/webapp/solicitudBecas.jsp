@@ -15,28 +15,17 @@
 
 <form action="SolicitudBecas" method="post">
 <table>
-<tr><td><label style="color:white">Nombre:</label></td>
-<td><input type="text" name="nombre"></td></tr>
+<tr><td><label style="color:white">Lugar De Estudio:</label></td>
+<td><input type="text" name="lugarDeEstudio"></td></tr>
 
 
-<tr><td><label style="color:white">Apellido Paterno:</label></td>
-<td><input type="text" name="apellidoPaterno"></td></tr>
+<tr><td><label style="color:white">Nombre Del Solicitante:</label></td>
+<td><input type="text" name="nombreDelSolicitante"></td></tr>
 
 
-<tr><td><label style="color:white">Apellido Materno:</label></td>
-<td><input type="text" name="apellidoMaterno"></td></tr>
+<tr><td><label style="color:white">Tipo De Beca:</label></td>
+<td><input type="text" name="tipoDeBeca"></td></tr>
 
-
-<tr><td><label style="color:white">Semestre:</label></td>
-<td><input type="text" name="semestre"></td></tr>
-
-
-<tr><td><label style="color:white">Carrera:</label></td>
-<td><input type="text" name="carrera"></td></tr>
-
-
-<tr><td><label style="color:white">Edad:</label></td>
-<td><input type="text" name="edad"></td></tr>
 
 <tr><td><button type="submit">Solicitar Beca</button></td></tr>
 
